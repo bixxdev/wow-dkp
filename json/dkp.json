@@ -1,0 +1,572 @@
+{
+    "standings": {
+      "roster": [
+        {
+          "uid": 1665434065,
+          "name": "25er Main Raid",
+          "standings": {
+            "player": [
+              {
+                "role": "",
+                "name": "Alcak",
+                "guid": "Player-4477-046CDA2F",
+                "spent": 0,
+                "class": "Rogue",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Nekin",
+                "guid": "Player-4477-03B292B2",
+                "spent": 0,
+                "class": "Hunter",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Lyendrie",
+                "guid": "Player-4477-045338FC",
+                "spent": 0,
+                "class": "Paladin",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Proxyfarmer",
+                "guid": "Player-4477-0449B449",
+                "spent": 0,
+                "class": "Mage",
+                "points": 0,
+                "spec": "10/0/53"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Whopwhop",
+                "guid": "Player-4477-03E6758D",
+                "spent": 0,
+                "class": "Shaman",
+                "points": 270,
+                "spec": "14/57/0"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Queraa",
+                "guid": "Player-4477-046859DB",
+                "spent": 235,
+                "class": "Todesritter",
+                "points": 200,
+                "spec": "0/17/54"
+              },
+              {
+                "role": "",
+                "name": "Purgedesup",
+                "guid": "Player-4477-03DCEE20",
+                "spent": 0,
+                "class": "Shaman",
+                "points": 220,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Leogoran",
+                "guid": "Player-4477-0451060B",
+                "spent": 395,
+                "class": "Warlock",
+                "points": 55,
+                "spec": "55/0/16"
+              },
+              {
+                "role": "",
+                "name": "Pjuu",
+                "guid": "Player-4477-04660C4F",
+                "spent": 250,
+                "class": "Paladin",
+                "points": 190,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Pepsyy",
+                "guid": "Player-4477-04993433",
+                "spent": 0,
+                "class": "Warlock",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Nerlost",
+                "guid": "Player-4477-047822DC",
+                "spent": 150,
+                "class": "Hunter",
+                "points": 300,
+                "spec": "0/17/54"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Jpáck",
+                "guid": "Player-4477-043B6064",
+                "spent": 90,
+                "class": "Rogue",
+                "points": 130,
+                "spec": "51/13/7"
+              },
+              {
+                "role": "",
+                "name": "Lykân",
+                "guid": "Player-4477-044ABB78",
+                "spent": 0,
+                "class": "Druid",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "TANK",
+                "name": "Smaris",
+                "guid": "Player-4477-03B24E67",
+                "spent": 70,
+                "class": "Druid",
+                "points": 355,
+                "spec": "0/55/16"
+              },
+              {
+                "role": "",
+                "name": "Jopnas",
+                "guid": "Player-4477-04693F00",
+                "spent": 0,
+                "class": "Todesritter",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Querashots",
+                "guid": "Player-4477-0445EA06",
+                "spent": 0,
+                "class": "Hunter",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Jazzyy",
+                "guid": "Player-4477-0459B3A5",
+                "spent": 0,
+                "class": "Shaman",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Saucenbinder",
+                "guid": "Player-4477-045558EF",
+                "spent": 0,
+                "class": "Warlock",
+                "points": 155,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Venysil",
+                "guid": "Player-4477-0347D4C7",
+                "spent": 20,
+                "class": "Druid",
+                "points": 210,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Hassani",
+                "guid": "Player-4477-0362C14A",
+                "spent": 0,
+                "class": "Warrior",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "TANK",
+                "name": "Metaraph",
+                "guid": "Player-4477-0467C28B",
+                "spent": 0,
+                "class": "Shaman",
+                "points": 0,
+                "spec": "0/6/55"
+              },
+              {
+                "role": "",
+                "name": "Zymeth",
+                "guid": "Player-4477-00F87294",
+                "spent": 0,
+                "class": "Warrior",
+                "points": 220,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Metaphysics",
+                "guid": "Player-4477-043955DC",
+                "spent": 160,
+                "class": "Paladin",
+                "points": 255,
+                "spec": "5/13/53"
+              },
+              {
+                "role": "",
+                "name": "Fatbutproo",
+                "guid": "Player-4477-032F8A2E",
+                "spent": 0,
+                "class": "Paladin",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Paicrosos",
+                "guid": "Player-4477-0450DE46",
+                "spent": 0,
+                "class": "Mage",
+                "points": 0,
+                "spec": "9/53/0"
+              },
+              {
+                "role": "",
+                "name": "Petrovius",
+                "guid": "Player-4477-04308ECE",
+                "spent": 0,
+                "class": "Paladin",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Frostjia",
+                "guid": "Player-4477-03B0E415",
+                "spent": 0,
+                "class": "Mage",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Trakl",
+                "guid": "Player-4477-04A63298",
+                "spent": 100,
+                "class": "Mage",
+                "points": 130,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Tráyok",
+                "guid": "Player-4477-03DDAEF5",
+                "spent": 0,
+                "class": "Shaman",
+                "points": 25,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Shenzô",
+                "guid": "Player-4477-0473403B",
+                "spent": 345,
+                "class": "Priest",
+                "points": 105,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Badmømzjay",
+                "guid": "Player-4477-04735962",
+                "spent": 50,
+                "class": "Todesritter",
+                "points": 170,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Rowsy",
+                "guid": "Player-4477-044AACE7",
+                "spent": 0,
+                "class": "Shaman",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Muuhdu",
+                "guid": "Player-4477-04649129",
+                "spent": 0,
+                "class": "Druid",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Chlair",
+                "guid": "Player-4477-04347F16",
+                "spent": 0,
+                "class": "Priest",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Ceebraa",
+                "guid": "Player-4477-0451CC83",
+                "spent": 0,
+                "class": "Mage",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Petergreefin",
+                "guid": "Player-4477-04301336",
+                "spent": 325,
+                "class": "Paladin",
+                "points": 125,
+                "spec": "52/19/0"
+              },
+              {
+                "role": "",
+                "name": "Vecxx",
+                "guid": "Player-4477-0453310E",
+                "spent": 0,
+                "class": "Priest",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Snowfire",
+                "guid": "Player-4477-0444DD88",
+                "spent": 115,
+                "class": "Shaman",
+                "points": 200,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Detlefknight",
+                "guid": "Player-4477-0475A6A1",
+                "spent": 0,
+                "class": "Todesritter",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Wortalmombat",
+                "guid": "Player-4477-04554B62",
+                "spent": 10,
+                "class": "Warrior",
+                "points": 210,
+                "spec": "55/8/8"
+              },
+              {
+                "role": "",
+                "name": "Lightie",
+                "guid": "Player-4477-033FBA2C",
+                "spent": 110,
+                "class": "Paladin",
+                "points": 340,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Sénso",
+                "guid": "Player-4477-036417B0",
+                "spent": 305,
+                "class": "Priest",
+                "points": 195,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Tôrrn",
+                "guid": "Player-4477-0488BA06",
+                "spent": 0,
+                "class": "Warrior",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Yosewl",
+                "guid": "Player-4477-033A8AA7",
+                "spent": 0,
+                "class": "Warlock",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Ayoi",
+                "guid": "Player-4477-04A1D1EF",
+                "spent": 125,
+                "class": "Warlock",
+                "points": 120,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Roat",
+                "guid": "Player-4477-03B00700",
+                "spent": 100,
+                "class": "Druid",
+                "points": 350,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Queradots",
+                "guid": "Player-4477-0445E9ED",
+                "spent": 0,
+                "class": "Warlock",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Pestqt",
+                "guid": "Player-4477-0478263C",
+                "spent": 105,
+                "class": "Todesritter",
+                "points": 345,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Chyzzo",
+                "guid": "Player-4477-043B5FC8",
+                "spent": 0,
+                "class": "Shaman",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Beastyboii",
+                "guid": "Player-4477-0438810F",
+                "spent": 390,
+                "class": "Druid",
+                "points": 80,
+                "spec": "0/53/18"
+              },
+              {
+                "role": "",
+                "name": "Eoven",
+                "guid": "Player-4477-0477EF71",
+                "spent": 0,
+                "class": "Paladin",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Woahlock",
+                "guid": "Player-4477-03B0A6FA",
+                "spent": 100,
+                "class": "Warlock",
+                "points": 360,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Qwwero",
+                "guid": "Player-4477-03944B78",
+                "spent": 0,
+                "class": "Priest",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Bíxx",
+                "guid": "Player-4477-03E0AD68",
+                "spent": 40,
+                "class": "Druid",
+                "points": 190,
+                "spec": "58/0/13"
+              },
+              {
+                "role": "HEALER",
+                "name": "Dínjo",
+                "guid": "Player-4477-048C6688",
+                "spent": 0,
+                "class": "Druid",
+                "points": 0,
+                "spec": "58/0/3"
+              },
+              {
+                "role": "",
+                "name": "Eroyin",
+                "guid": "Player-4477-046AAC64",
+                "spent": 0,
+                "class": "Todesritter",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Tongah",
+                "guid": "Player-4477-03B08715",
+                "spent": 0,
+                "class": "Druid",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Cürük",
+                "guid": "Player-4477-04A226EB",
+                "spent": 305,
+                "class": "Warlock",
+                "points": 70,
+                "spec": "55/0/16"
+              },
+              {
+                "role": "",
+                "name": "Ðeluxx",
+                "guid": "Player-4477-037D0D03",
+                "spent": 85,
+                "class": "Hunter",
+                "points": 200,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "",
+                "name": "Hohlbirne",
+                "guid": "Player-4477-048FC339",
+                "spent": 0,
+                "class": "Druid",
+                "points": 0,
+                "spec": "0/0/0"
+              },
+              {
+                "role": "DAMAGER",
+                "name": "Swushi",
+                "guid": "Player-4477-04382057",
+                "spent": 135,
+                "class": "Mage",
+                "points": 75,
+                "spec": "56/3/12"
+              },
+              {
+                "role": "",
+                "name": "Tactoni",
+                "guid": "Player-4477-034907F8",
+                "spent": 410,
+                "class": "Paladin",
+                "points": 50,
+                "spec": "0/0/0"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
